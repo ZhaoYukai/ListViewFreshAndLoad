@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility">
+        <ignore path="src/com/imooc/view/LoadListView.java" />
+        <ignore path="src/com/loadlistview/test/LoadListView.java" />
+    </issue>
+    <issue id="InflateParams">
+        <ignore path="src/com/imooc/adapter/MyAdapter.java" />
+        <ignore path="src/com/imooc/view/LoadListView.java" />
+        <ignore path="src/com/loadlistview/test/LoadListView.java" />
+        <ignore path="src/com/loadlistview/test/MyAdapter.java" />
+    </issue>
+    <issue id="SimpleDateFormat">
+        <ignore path="src/com/imooc/view/LoadListView.java" />
+        <ignore path="src/com/loadlistview/test/LoadListView.java" />
+    </issue>
+</lint>
